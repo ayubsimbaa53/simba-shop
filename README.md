@@ -17,9 +17,9 @@
 - Fronted: React js, Reudx, Sass, React-bootstrap, React-router-dom, recharts etc
 - Backend: Node js, Express js, Mongodb, JSON web token, Mongoose, Google OAuth, Nodemailer, Stripe, cloudinary etc
 
-# Here is the main Website Demo - (https://mern-quickshop-app-ecommerce.herokuapp.com/)
+# Here is the main Website Demo - (https://simba-shop.herokuapp.com/)
 
-# Here is the Admin Panel Demo - (https://mern-quickshop-admin-panel.herokuapp.com/)
+# Here is the Admin Panel Demo - (https://simba-shop-admin-panel.herokuapp.com/)
 
 # Website Interface -
 
@@ -32,6 +32,9 @@
 # Admin Dashboard interface -
 
 ![plot](./server/client/src/assets/admin.png)
+
 # simba-shop
+
 # simba-shop
+
 # simba-shop
