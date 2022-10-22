@@ -141,19 +141,19 @@ const Contact = () => {
             <div>
               <GoLocation />
             </div>
-            <p>Dhaka, Bangladesh</p>
+            <p>Nairobi, Kenya</p>
           </div>
           <div className="contact__left__box">
             <div>
               <AiOutlineMail />
             </div>
-            <p>mdsahadathossin778@gmail.com</p>
+            <p>ayubjoseph53@gmail.com</p>
           </div>
           <div className="contact__left__box">
             <div>
               <IoCallOutline />
             </div>
-            <p>(+88) 01836855666</p>
+            <p>(+254) 771609346</p>
           </div>
         </div>
         <div className="contact__right">
